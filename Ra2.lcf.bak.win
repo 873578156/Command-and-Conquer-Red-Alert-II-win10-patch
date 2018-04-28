@@ -1,0 +1,7 @@
+# RUN = the game to launch
+RUN = . game.exe -win
+#
+# Sku's to check for patches
+#
+SKU1 = 8448  SOFTWARE\Westwood\Red Alert 2
+SKU2 = 32512 SOFTWARE\Westwood\WOLAPI

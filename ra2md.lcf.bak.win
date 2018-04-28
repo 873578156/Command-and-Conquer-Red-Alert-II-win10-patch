@@ -1,0 +1,9 @@
+# RUN = the game to launch
+RUN = . gamemd.exe -win
+RUN2 = . yuri.exe -win
+FLAG = 1002700800
+#
+# Sku's to check for patches
+#
+SKU1 = 10496  SOFTWARE\Westwood\Yuri's Revenge
+SKU2 = 32512 SOFTWARE\Westwood\WOLAPI
