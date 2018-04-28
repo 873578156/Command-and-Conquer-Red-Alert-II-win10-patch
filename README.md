@@ -4,7 +4,7 @@
 这个补丁，可以让你在windows 10中完美的运行《命令与征服·红色警戒2+尤里的复仇资料片》，
 
 
-在使用之前，你应该遵守我的规则：你可以将这个补丁通过这个链接(https://github.com/873578156/Command-and-Conquer-Red-Alert-II-win10-patch)引用或分享给其他人，但是你不可以做有关于转载、复制、盗窃的举动。
+在使用之前，你应该遵守我的规则：你可以将这个补丁通过 [ 这个超级链接 ]( https://github.com/873578156/Command-and-Conquer-Red-Alert-II-win10-patch )引用或分享给其他人，但是你不可以做有关于转载、复制、盗窃的举动。
 
 
 本补丁中的ddraw.dll和wsock32.dll均来自开源社区。
