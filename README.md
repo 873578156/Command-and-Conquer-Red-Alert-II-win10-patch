@@ -24,4 +24,7 @@
         7. Open your game now and enjoy it. <br>
         8.[点击这个链接，加入QQ群聊：五月幻想048—玩游戏，让我们一起交流红色警戒。](https://jq.qq.com/?_wv=1027&k=5HiqSxF)<br>
         8.[Click this link to join the QQ group chat: May Fantasy 048 - Play the game, let us communicate red alert together. ](https://jq.qq.com/?_wv=1027&k=5HiqSxF)<br>
-Command & Conquer Red Alert™ 2 and Yuri’s Revenge™
+
+PS.如果你需要中文语言，你可以去除game.fnt，ra2.csf，ra2md.csf的.bak.S-Chinese后缀。只需重命名即可。
+PS..win后缀的文件是用来在origin平台使用窗口化模式进行游戏，如果需要，删除.win后缀即可。
+PS.The .win suffix file is used to play games on the origin platform using the windowing mode. If needed, the .win suffix can be removed.
