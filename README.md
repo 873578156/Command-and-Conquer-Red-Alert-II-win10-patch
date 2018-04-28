@@ -10,6 +10,6 @@
     * 5.如果你使用的是origin客户端，在你下载之后他会为你自动设置`Ra2.exe`，`RA2MD.exe`，`YURI.exe`的`兼容性`选项，请在文件`属性`，`兼容性`中取消他们的任何兼容性选项。<br>
     * 6.如果你的分辨率不是`1920*1080`，请在`ra2.ini`和`ra2md.ini`中更改。<br>
     * 7.现在打开你的游戏，去享受它把。<br>
-    * 8.[点击这个链接加入QQ群聊 五月幻想048—玩游戏 ](https://jq.qq.com/?_wv=1027&k=5HiqSxF)我们一起交流红色警戒。
+    * 8.[点击这个链接加入QQ群聊 五月幻想048—玩游戏 ](https://jq.qq.com/?_wv=1027&k=5HiqSxF)
     
 Command & Conquer Red Alert™ 2 and Yuri’s Revenge™
