@@ -8,6 +8,11 @@
 * Both `ddraw.dll` and `wsock32.dll` in this patch are from the open source community. <br>
 * 本补丁免费提供，如果你看到有任何商业行为，包括比如淘宝店铺在内的一些商业行为，请向我举报，谢谢。 <br>
 * This patch is available free of charge. If you see any commercial activities, including those in Taobao stores, please report them to me. Thank you. <br>
+  
+----
+2022.10.29 support windwos 11 & sixth speed & compatibility on ddraw.dll.0 (rename ddraw.dll.0 to ddraw.dll)
+----
+  
 * 补丁使用方法：<br>
 * How to use the patch:<br>
         1.本补丁在windows 8和windows 8.1中也可以用，不仅仅局限于windows 10.<br>
