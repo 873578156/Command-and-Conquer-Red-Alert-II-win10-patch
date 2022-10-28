@@ -1,5 +1,5 @@
-# 命令与征服-红色警戒-图像-补丁-win10-win11<br>
-# Command-and-Conquer-Red-Alert-II-win10-patch-win10-win11<br>
+# 命令与征服-红色警戒-图像-补丁-win10-win11-winALL-非官方<br>
+# Command-and-Conquer-Red-Alert-II-patch-win10-win11-winALL-unofficial<br>
 2022.10.29-支持windwos 11 & 速度6无限制 & 任何兼容性 on ddraw.dll.0 (重命名 ddraw.dll.0 为 ddraw.dll)<br>
 2022.10.29-support windwos 11 & sixth speed & compatibility on ddraw.dll.0 (rename ddraw.dll.0 to ddraw.dll)<br>
 ----
