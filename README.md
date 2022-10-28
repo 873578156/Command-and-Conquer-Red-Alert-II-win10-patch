@@ -1,8 +1,7 @@
 # 命令与征服-红色警戒-win10-补丁<br>
 # Command-and-Conquer-Red-Alert-II-win10-patch<br>
-----
-2022.10.29-支持windwos 11 & 速度6无限制 & 任何兼容性 on ddraw.dll.0 (重命名 ddraw.dll.0 为 ddraw.dll)
-2022.10.29-support windwos 11 & sixth speed & compatibility on ddraw.dll.0 (rename ddraw.dll.0 to ddraw.dll)
+2022.10.29-支持windwos 11 & 速度6无限制 & 任何兼容性 on ddraw.dll.0 (重命名 ddraw.dll.0 为 ddraw.dll)<br>
+2022.10.29-support windwos 11 & sixth speed & compatibility on ddraw.dll.0 (rename ddraw.dll.0 to ddraw.dll)<br>
 ----
 * 这个补丁，可以让你在windows 10中完美的运行《命令与征服·红色警戒2+尤里的复仇资料片》，<br>
 * This patch allows you to run "Command & Conquer, Red Alert 2 + Yuri's Revenge" on Windows 10.<br>
